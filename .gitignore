@@ -4,6 +4,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Local runtime learning store (auto-created at runtime)
+quota_learnings.json
+
 # Environment & OS
 .env
 .DS_Store

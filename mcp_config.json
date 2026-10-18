@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "antigravity-quota": {
+      "command": "node",
+      "args": [
+        "${extensionPath}/server.js"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "antigravity-quota",
+  "displayName": "Antigravity Quota & Self-Learning Estimator",
+  "version": "1.1.0",
+  "description": "Live 5-hour and 7-day quota monitoring, deep plan consumption forecasting via /quota, and self-learning calibration with parallel-chat noise detection for Google Antigravity 2.0.",
+  "author": {
+    "name": "NyboTV"
+  },
+  "repository": "https://github.com/NyboTV/antigravity-quota",
+  "license": "MIT",
+  "suggestedPrompts": [
+    "/quota Zeig mir meinen aktuellen 5h- und Wochen-Quota-Status",
+    "/quota Wie viel Quota würde dieser Plan verbrauchen?",
+    "/quota Zeig mir die bisherigen Lernwerte und Kalibrierung aus quota_learnings.json"
+  ],
+  "keywords": [
+    "antigravity",
+    "mcp",
+    "quota",
+    "rate-limits",
+    "self-learning",
+    "estimation",
+    "gemini",
+    "claude"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.1.0",
+  "updatedAt": "2026-10-18T16:00:00.000Z",
+  "activeTrackings": {},
+  "calibrationStats": {
+    "totalCompletedTasks": 0,
+    "cleanIsolatedTasks": 0,
+    "parallelAdjustedTasks": 0,
+    "globalCalibrationMultiplier": 1.0,
+    "byModel": {},
+    "byCategory": {}
+  },
+  "history": []
+}
