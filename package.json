@@ -1,0 +1,31 @@
+{
+  "name": "antigravity-quota",
+  "version": "1.0.0",
+  "description": "Antigravity 2.0 Live Quota & Limits MCP Server — Query 5-hour and 7-day limits, per-model quotas, and user tier via ConnectRPC",
+  "main": "server.js",
+  "bin": {
+    "antigravity-quota": "./server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "antigravity",
+    "mcp",
+    "model-context-protocol",
+    "quota",
+    "gemini",
+    "claude",
+    "rate-limits",
+    "connect-rpc"
+  ],
+  "author": "NyboTV",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NyboTV/antigravity-quota.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
